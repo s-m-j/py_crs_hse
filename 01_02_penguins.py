@@ -4,9 +4,9 @@
 """
 
 n = input()
-line1 = "   _~_    "    
-line2 = "  (o o)   " 
-line3 = " /  V  \  " 
+line1 = "   _~_    "
+line2 = "  (o o)   "
+line3 = " /  V  \  "
 line4 = "/(  _  )\ "
 line5 = "  ^^ ^^   "
 print(line1 * int(n))

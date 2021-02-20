@@ -3,5 +3,5 @@ b = int(input())
 
 if (a > b):
     print(a)
-else:
-    print (b)
+else
+    print(b)

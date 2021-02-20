@@ -6,4 +6,4 @@ y2 = int(input())
 if (abs(x2-x1) <= 1) and (abs(y2-y1) <= 1):
     print('YES')
 else:
-    print('NO')    
+    print('NO')

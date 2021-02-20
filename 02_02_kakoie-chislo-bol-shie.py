@@ -3,7 +3,8 @@ b = int(input())
 
 if (a > b):
     print(1)
-    if (a = b):
+else:
+    if (a == b):
         print(0)
     else:
-        print (2))
+        print(2)
